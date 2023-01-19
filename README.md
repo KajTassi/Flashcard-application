@@ -4,6 +4,7 @@ To view this project, you are going to want to follow these steps!
 3. run 'npm start' to launch on a local server
 
 This project was made using the following languages, libraries, and tools...
+ Markup : - Bullet list
 -JavaScript
 -React.js
 -HTML
