@@ -3,8 +3,6 @@ To view this project, you are going to want to follow these steps!
 2. run 'npm install' for dependencies
 3. run 'npm start' to launch on a local server
 
-<div>
-
 This project was made using the following languages, libraries, and tools...
 -JavaScript
 -React.js
@@ -13,7 +11,6 @@ This project was made using the following languages, libraries, and tools...
 -Bootstrap
 -Json-server
 
-</div>
 
 
 The assigned features for the project are shown below with screen shots. The goal of this was to create a means for studying where you can create vitual flash cards in decks. I wanted to build a frontend application that featured compenents inside compenents in the form of decks of study cards on the home page. Each deck has additional study cards that can be added to it. The user also had the option delete each individual deck or card in each deck. 
